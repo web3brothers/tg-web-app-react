@@ -10,9 +10,7 @@ function App() {
   }, []);
 
 
-  const close = () => {
-    tg.close();
-  }
+
 
   return (
     <div className="App">
